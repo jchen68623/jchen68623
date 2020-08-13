@@ -1,16 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+## I'm a software engineer with 3 years professional experience 
 
-### I'm a software engineer with 3 years professional experience 
-
-### Skills
-## Professional experience
-# Language
-Java, Python, JavaScript, SQL
-# Framework and other Technologies 
+## Skills
+### Professional experience
+Java, Python, JavaScript, SQL <br> 
 SpringMVC, Node.js, AngularJS, JSP, jQuery, Qt5 <br>
 Maven, Azure, Microsoft SQL Server
-## Personal project
-# Framework and other Technologies
+### Personal project
 React, Angular
 
 
