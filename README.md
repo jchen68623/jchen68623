@@ -6,7 +6,8 @@ Java, Python, JavaScript, SQL <br>
 SpringMVC, Node.js, AngularJS, JSP, jQuery, Qt5 <br>
 Maven, Azure, Microsoft SQL Server
 ### Personal project
-React, Angular
+C, C++, NoSQL <br>
+React, Angular, MongoDB
 
 
 
